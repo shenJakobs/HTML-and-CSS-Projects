@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+        <meta charset="utf-8">
+        <title>The Space Station | Resort</title>
+        <link rel="stylesheet" href="">
+        <link rel="stylesheet" href="">
+</head>
+
+<body>
+
+    <!--NAV-->
+    <div class="wrap">
+        <div class="menu-container">
+            <ul class="menu">
+                <a href="#home"><li>HOME</li></a>
+                <a href="#gallery"><li>GALLERY</li></a>
+                <a HREF="#contact"><li>RESERVATIONS</li></a>
+            </ul>
+        </div>
+    </div>
+    <!--END OF NAV-->
+
+    <!--HOME-->
+    <div id="home">
+        <div class="container">
+            <div class="text-center">
+                <span class="head-main">The Space Station</span>
+            </div>
+        </div>
+    </div>
+    <!--END HOME-->
+
+    <!--GALLERY-->
+    <section id="gallery">
+        <div class="container">
+            <h1>Gallery</h1>
+            <div class="flex-container">
+
+                <!--PHOTO CONTAINER 1-->
+                <dic class="photo-container">
+                    <div class="photo">
+                        <img sr="./images/thumb/thumbnail_1.jpg">
+                        <div class="photo">
+                            <h3>Click to Enlarge</h3>
+                            <p> We have several space launches departing daily, book flight today!</p>
+                        </div>
+                    </div>
+                </div>
+                <!--END OF PHOTO CONTAINER 1-->
+
+                <!--PHOTO CONTAINER 2-->
+                <dic class="photo-container">
+                    <div class="photo">
+                        <img sr="./images/thumb/thumbnail_2.png">
+                        <div class="photo">
+                            <h3>Click to Enlarge</h3>
+                            <p> We have several space launches departing daily, book flight today!</p>
+                        </div>
+                    </div>
+                </div>
+                <!--END OF PHOTO CONTAINER 2-->
+
+                <!--PHOTO CONTAINER 3-->
+                <dic class="photo-container">
+                    <div class="photo">
+                        <img sr="./images/thumb/thumbnail_3.png">
+                        <div class="photo">
+                            <h3>Click to Enlarge</h3>
+                            <p> We have several space launches departing daily, book flight today!</p>
+                        </div>
+                    </div>
+                </div>
+                <!--END OF PHOTO CONTAINER 3-->
+
+                <!--PHOTO CONTAINER 4-->
+                <dic class="photo-container">
+                    <div class="photo">
+                        <img sr="./images/thumb/thumbnail_4.png">
+                        <div class="photo">
+                            <h3>Click to Enlarge</h3>
+                            <p> We have several space launches departing daily, book flight today!</p>
+                        </div>
+                    </div>
+                </div>
+                <!--END OF PHOTO CONTAINER 4-->
+
+                <!--PHOTO CONTAINER 5-->
+                <dic class="photo-container">
+                    <div class="photo">
+                        <img sr="./images/thumb/thumbnail_5.jpg">
+                        <div class="photo">
+                            <h3>Click to Enlarge</h3>
+                            <p> We have several space launches departing daily, book flight today!</p>
+                        </div>
+                    </div>
+                </div>
+                <!--END OF PHOTO CONTAINER 5-->
+
+                <!--PHOTO CONTAINER 6-->
+                <dic class="photo-container">
+                    <div class="photo">
+                        <img sr="./images/thumb/thumbnail_6.png">
+                        <div class="photo">
+                            <h3>Click to Enlarge</h3>
+                            <p> We have several space launches departing daily, book flight today!</p>
+                        </div>
+                    </div>
+                </div>
+                <!--END OF PHOTO CONTAINER 6-->
+
+                <!--PHOTO CONTAINER 7-->
+                <dic class="photo-container">
+                    <div class="photo">
+                        <img sr="./images/thumb/thumbnail_7.png">
+                        <div class="photo">
+                            <h3>Click to Enlarge</h3>
+                            <p> We have several space launches departing daily, book flight today!</p>
+                        </div>
+                    </div>
+                </div>
+                <!--END OF PHOTO CONTAINER 7-->
+
+                <!--PHOTO CONTAINER 8-->
+                <dic class="photo-container">
+                    <div class="photo">
+                        <img sr="./images/thumb/thumbnail_8.jpg">
+                        <div class="photo">
+                            <h3>Click to Enlarge</h3>
+                            <p> We have several space launches departing daily, book flight today!</p>
+                        </div>
+                    </div>
+                </div>
+                <!--END OF PHOTO CONTAINER 8-->
+
+                <!--PHOTO CONTAINER 9-->
+                <dic class="photo-container">
+                    <div class="photo">
+                        <img sr="./images/thumb/thumbnail_9.png">
+                        <div class="photo">
+                            <h3>Click to Enlarge</h3>
+                            <p> We have several space launches departing daily, book flight today!</p>
+                        </div>
+                    </div>
+                </div>
+                <!--END OF PHOTO CONTAINER 9-->
+
+            </div>
+        </div>
+    </section>
+    <!--END GALLERY-->
+
+    <!--RSVP-->
+    <section id="contact">
+    </section>
+    <!--END RSVP-->
+
+    <!--FOOTER-->
+    <div id="footer">
+    </div>
+
+</body>
+</html>
