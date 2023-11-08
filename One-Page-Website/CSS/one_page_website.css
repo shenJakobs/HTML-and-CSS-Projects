@@ -1,0 +1,68 @@
+.head {
+    text-shadow: 3px 6px 7px rgba (0, 0, 0, 1);
+    font-variant: uppercase;
+    color: #fff;
+    letter-spacing: 21pt;
+    font-size: 7em;
+    text-align: center;
+    font-family: impact, sans-serif;
+}
+
+.home {
+    font-family: impact, sans-serif;
+    font-size: 6em;
+}
+
+.photo-container h3{
+    font-family: impact;
+    font-size: 6em;
+}
+
+.contact {
+    font-family: impact;
+    font-size: 6em;
+}
+
+.contact h2{
+    font-size: 4em;
+    font-family: 'raleway' sans-serif;
+}
+
+#footer {
+    background-color: rgba (100, 65, 0, .3);
+    color: #000;
+    text-shadow: 2px 2px 8px 0 rgba(0, 0, 0, 1);
+    padding: 20px 50px 20px 50px;
+    text-align: right;
+}
+
+.submit input[type="submit"] {
+    color: rgb(255, 255, 255);
+    cursor: pointer;
+    border: none;
+    font-weight: 900;
+    outline: none;
+    text-align: center;
+    font-family: 'Raleway', sans-serif;
+    margin: 0px 3%;
+    padding: 7px 0px;
+    width: 25%;
+    font-size: 18px;
+    transition: border-color 0.3s color 0.3s background-color 0.3s;
+    border-radius: 7px;
+    background-color: #797a7b;
+    box-shadow: 1px 1px 4px 0 rgba(0, 0, 0, 0.3);
+}
+
+form input {
+    width: 20%;
+    margin: 5px;
+    border: 2px solid;
+    border-radius: 7px;
+}
+
+.body {
+    background-color: blue;
+    font-family: impact;
+    font-size: 5em;
+}
