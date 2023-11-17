@@ -66,3 +66,19 @@ form input {
     font-family: impact;
     font-size: 5em;
 }
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+img.background {
+    filter: blur(35px);
+}
+
+img {
+    border: 5px solid black;
+    border-radius: 10px;
+}
