@@ -1,9 +1,9 @@
 # HTML and CSS Projects
- Place to store all of my HTML and CSS project
+<h1> Place to store all of my HTML and CSS project </h1>
 <p>
-  One Page Website
+  <div>One Page Website</div>
   Space Station Website
-  Effecting Images Assingment
-  CSS Menu
+  Effecting Images Assingment,
+  CSS Menu,
   HTML Error Assingment
 </p>
